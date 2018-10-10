@@ -1,1 +1,4 @@
-TODO
+Hardware
+
+Software
+
